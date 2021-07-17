@@ -11,6 +11,14 @@
 .task-title{
     cursor: pointer;
 }
+.task-title:hover{
+    color:chartreuse;
+}
+.buttons-container{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
 .remove-task-button,
 .taskInfo-button{
     background-color: #444;
