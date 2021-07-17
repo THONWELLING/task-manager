@@ -10,3 +10,8 @@
     cursor: pointer;
     border: none;
 }
+.button:hover{
+    background:linear-gradient(to right, Indigo,  DarkMagenta);
+    color: MediumSlateBlue;
+    transition: all ease 0.5s;
+}
